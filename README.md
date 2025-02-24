@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=I'm+Muhammad+Tayyab;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Muhammad+Tayyab;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -27,7 +27,6 @@
 ### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
 
 ### Tools & Libraries
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -66,7 +65,7 @@
 
 ## 🌟 Contribution Graph
 
-![Snake animation](https://github.com/Moh-Tayyab/Moh-Tayyab/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Moh-Tayyab/Moh-Tayyab/output/github-contribution-grid-snake.svg)
 
 ---
 
