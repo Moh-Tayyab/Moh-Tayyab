@@ -1,39 +1,25 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=I'm+Muhammad+Tayyab;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+# Hi, I'm Muhammad Tayyab — AI Automation Engineer
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ch-muhammad-tayyab/">
-    <img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ch-muhammad-tayyab/" />
-  </a>
-  <a href="https://my-app-tayyab-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/-PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white&link=https://my-app-tayyab-portfolio.vercel.app/" />
-  </a>
-</div>
+I help businesses save 10+ hours/week with AI bots & automation.
+`Python` `FastAPI` `Next.js` `OpenAI Agents` `WhatsApp / Telegram Bots` `Docker`
 
----
+📍 Lahore, Pakistan | 💼 Open for freelance & remote
+📫 m.tayyab1263@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/ch-muhammad-tayyab/) | 💻 [Portfolio](https://my-app-tayyab-portfolio.vercel.app/)
 
-## 🛠️ Tech Stack
+## What I build (with live proof)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+- **AgentZline — Meta Ads to WhatsApp reports** — Daily bilingual summaries for Pakistani stores → [Agentzline](https://github.com/Moh-Tayyab/Agentzline)
+- **Telegram News Automation** — 11-service system, scraping + AI summary + delivery → [tg_news_bot](https://github.com/Moh-Tayyab/tg_news_bot)
+- **Bank Migration ETL** — Multi-bank file ingestion, schema mapping, PII masking → [bank_migration](https://github.com/Moh-Tayyab/bank_migration)
+- **Retail Shelf AI** — YOLOv11 void detection, FastAPI + Next.js → [shelf-void-detection](https://github.com/Moh-Tayyab/shelf-void-detection)
+- **YouTube Shorts Engine** — Script → voice → edit → auto-upload, 15 min/video → [youtube-automation](https://github.com/Moh-Tayyab/youtube-automation)
+- **Voice AI Agent + MCP** — Realtime voice support with tools → [voiceagent-pro](https://github.com/Moh-Tayyab/voiceagent-pro)
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+## Tech I use daily
 
-### Tools & Libraries
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+`Python` `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Redis` `Docker` `LangChain` `OpenAI Agents SDK` `MCP` `FFmpeg` `pytest`
+
+👉 Need automation for your business? Email me. I reply with a 2-min demo idea, free.
 
 ---
 
@@ -56,13 +42,6 @@
 
 ---
 
-## 🔝 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moh-Tayyab&repo=your-top-repo&theme=merko)](https://github.com/Moh-Tayyab/your-top-repo)
-*Replace with your actual repository*
-
----
-
 ## 🌟 Contribution Graph
 
 ![Snake animation](https://raw.githubusercontent.com/Moh-Tayyab/Moh-Tayyab/output/github-contribution-grid-snake.svg)
@@ -72,5 +51,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Moh-Tayyab&label=Profile+Views&color=00F72E&style=flat" alt="Profile views" />
 </div>
-
-⭐ From [Mohammad Tayyab](https://github.com/Moh-Tayyab)
