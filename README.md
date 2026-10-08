@@ -12,13 +12,10 @@
 <!-- WARM WELCOME — one friendly line to balance the professional hero -->
 <p><sub>Thanks for stopping by — glad you're here! Scroll down for live proof of my work.</sub></p>
 
-<br/>
-
-<!-- SOCIAL PROOF — SVG badges only, high-contrast 4.5:1, descriptive alt text -->
+<!-- SOCIAL PROOF — real numbers only, no filler badges -->
 <p>
   <a href="https://github.com/Moh-Tayyab?tab=followers"><img src="https://img.shields.io/github/followers/Moh-Tayyab?style=flat-square&logo=github&logoColor=white&labelColor=161B22&color=238636" alt="GitHub followers count"/></a>
   <img src="https://komarev.com/ghpvc/?username=Moh-Tayyab&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views counter"/>
-  <img src="https://img.shields.io/badge/Focus-Production%20AI-0D1117?style=flat-square&labelColor=161B22&color=0D1117" alt="Focus: Production AI"/>
   <img src="https://img.shields.io/badge/Open_to-Freelance_%26_Remote-2563EB?style=flat-square&labelColor=161B22" alt="Open to freelance and remote work"/>
 </p>
 
@@ -30,14 +27,10 @@
   <a href="https://github.com/Moh-Tayyab"><img src="https://img.shields.io/badge/GitHub-Follow-238636?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 </p>
 
-<!-- LOCATION / AVAILABILITY — upgraded to SVG badges (no emoji icons), scannable + high contrast -->
+<!-- TIMEZONE — single badge, no repeated availability/email lines -->
 <p>
   <img src="https://img.shields.io/badge/Lahore%2C_Pakistan-UTC%2B5-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF&labelColor=161B22" alt="Based in Lahore, Pakistan, UTC plus 5"/>
-  <img src="https://img.shields.io/badge/Available-Freelance_%26_Remote-238636?style=flat-square&labelColor=161B22" alt="Available for freelance and remote work"/>
-  <a href="mailto:m.tayyab1263@gmail.com"><img src="https://img.shields.io/badge/m.tayyab1263%40gmail.com-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161B22" alt="Email m.tayyab1263 at gmail.com"/></a>
 </p>
-
-<p><sub>Based in Lahore (PK) &nbsp;•&nbsp; Working worldwide &nbsp;•&nbsp; Replies within 24 hours with a free 2-min demo idea</sub></p>
 
 </div>
 
@@ -59,7 +52,7 @@ I help businesses **save 10+ hours/week** with AI bots & automation that survive
 
 ## What I Build — With Live Proof
 
-> Problem → Solution → Impact. Every repo below is deployed, not a tutorial clone.
+> Selected work with measurable outcomes.
 
 | Project | What it does | Stack | Impact |
 |---|---|---|---|
@@ -70,7 +63,6 @@ I help businesses **save 10+ hours/week** with AI bots & automation that survive
 | [**bank_migration**](https://github.com/Moh-Tayyab/bank_migration) | Multi-bank file ingestion, schema mapping, PII masking | Python, PostgreSQL, Docker | Safer, repeatable banking ETL |
 | [**voiceagent-pro**](https://github.com/Moh-Tayyab/voiceagent-pro) | Realtime voice support agent + MCP tools | Python, LLMs, MCP, WebRTC | Voice AI with tool-calling for support |
 | [**youtube-automation**](https://github.com/Moh-Tayyab/youtube-automation) | Script → voice → edit → auto-upload | Python, LLMs, FFmpeg, APIs | Full video in ~15 min, hands-free |
-| [**tutorclaw**](https://github.com/Moh-Tayyab/tutorclaw) | AI tutoring agent with RAG | Python / TypeScript, LangChain | Personalized learning assistant |
 
 <div align="center">
 <a href="https://github.com/Moh-Tayyab?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories button"/></a>
@@ -87,7 +79,6 @@ I help businesses **save 10+ hours/week** with AI bots & automation that survive
 4. Full-Stack AI Apps         → FastAPI + Next.js + PostgreSQL + Redis + Docker + AWS
 ```
 
-- **Stack I use daily:** `Python` `FastAPI` `Next.js` `TypeScript` `PostgreSQL` `Redis` `Docker` `LangChain` `OpenAI Agents SDK` `MCP` `FFmpeg` `pytest`
 - **How I work:** Fixed scope, weekly demo, docs + handover so your team can run it without me.
 
 ---
@@ -131,9 +122,6 @@ I help businesses **save 10+ hours/week** with AI bots & automation that survive
 3. Harden        → Docker, CI/CD, monitoring, edge optimization, fallback paths
 4. Hand over     → docs + dashboard so the team can run it without me
 ```
-
-- **This week:** shelf + carton vision accuracy, agent reliability, Next.js dashboards
-- **Next:** multi-camera tracking, agentic QA for ops, cost-efficient inference
 
 ---
 
