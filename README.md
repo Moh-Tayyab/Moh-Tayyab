@@ -6,6 +6,9 @@
 <!-- Typing intro — single narrative line, pause enabled, reduced-motion safe -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=I+help+businesses+save+10%2B+hours%2Fweek+with+AI+automation;Production+Vision+AI+%7C+Agentic+AI+%7C+YOLO+%7C+LLMs;Python+%2B+FastAPI+%2B+Next.js+%2B+Docker+%2B+AWS;WhatsApp+%2F+Telegram+Bots+%2B+Voice+Agents+%2B+MCP" alt="Typing animation: I help businesses save 10 plus hours per week with AI automation" />
 
+<!-- 3D-style animated mantra — bold typewriter loop directly under name + role -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1800&pause=900&color=58A6FF&background=0D111700&center=true&vCenter=true&width=650&height=55&lines=Eat+%E2%80%A2+Sleep+%E2%80%A2+Code+%E2%80%A2+Repeat;while(alive)+%7B+eat()%3B+sleep()%3B+code()%3B+repeat()%3B+%7D" alt="Animated text: Eat Sleep Code Repeat" />
+
 <br/>
 
 <!-- SOCIAL PROOF — SVG badges only, high-contrast 4.5:1, descriptive alt text -->
@@ -23,7 +26,14 @@
   <a href="https://github.com/Moh-Tayyab"><img src="https://img.shields.io/badge/GitHub-Follow-238636?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 </p>
 
-<p><sub>📍 Lahore, Pakistan &nbsp;|&nbsp; 💼 Open for freelance &amp; remote &nbsp;|&nbsp; 📫 <a href="mailto:m.tayyab1263@gmail.com">m.tayyab1263@gmail.com</a></sub></p>
+<!-- LOCATION / AVAILABILITY — upgraded to SVG badges (no emoji icons), scannable + high contrast -->
+<p>
+  <img src="https://img.shields.io/badge/Lahore%2C_Pakistan-UTC%2B5-0D1117?style=flat-square&logo=googlemaps&logoColor=58A6FF&labelColor=161B22" alt="Based in Lahore, Pakistan, UTC plus 5"/>
+  <img src="https://img.shields.io/badge/Available-Freelance_%26_Remote-238636?style=flat-square&labelColor=161B22" alt="Available for freelance and remote work"/>
+  <a href="mailto:m.tayyab1263@gmail.com"><img src="https://img.shields.io/badge/m.tayyab1263%40gmail.com-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161B22" alt="Email m.tayyab1263 at gmail.com"/></a>
+</p>
+
+<p><sub>Based in Lahore (PK) &nbsp;•&nbsp; Working worldwide &nbsp;•&nbsp; Replies within 24 hours with a free 2-min demo idea</sub></p>
 
 </div>
 
