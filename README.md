@@ -107,26 +107,6 @@ I help businesses **save 10+ hours/week** with AI bots & automation that survive
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Moh-Tayyab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="Moh-Tayyab GitHub stats: stars, commits, pull requests" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Moh-Tayyab&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Moh-Tayyab GitHub contribution streak" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Tayyab&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top programming languages: Python, TypeScript, JavaScript, Dart" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moh-Tayyab&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution activity graph over the last year" width="49%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Moh-Tayyab&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" alt="GitHub achievement trophies" width="100%"/>
-
-</div>
-
----
-
 ## How I Work — Forward Deployed
 
 ```text
@@ -165,7 +145,5 @@ I help businesses **save 10+ hours/week** with AI bots & automation that survive
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" alt="Footer wave decoration" width="100%"/>
-
-<sub>Design: Minimalism &amp; Swiss Style · Dark OLED Monochrome + Blue accent (#0D1117 / #58A6FF / #2563EB) · JetBrains Mono · SVG badges only · 4.5:1 contrast · Responsive 375–1440px · Built with ui-ux-pro-max</sub>
 
 </div>
