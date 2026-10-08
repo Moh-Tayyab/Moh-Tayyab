@@ -9,6 +9,9 @@
 <!-- 3D-style animated mantra — bold typewriter loop directly under name + role -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1800&pause=900&color=58A6FF&background=0D111700&center=true&vCenter=true&width=650&height=55&lines=Eat+%E2%80%A2+Sleep+%E2%80%A2+Code+%E2%80%A2+Repeat;while(alive)+%7B+eat()%3B+sleep()%3B+code()%3B+repeat()%3B+%7D" alt="Animated text: Eat Sleep Code Repeat" />
 
+<!-- WARM WELCOME — one friendly line to balance the professional hero -->
+<p><sub>Thanks for stopping by — glad you're here! Scroll down for live proof of my work.</sub></p>
+
 <br/>
 
 <!-- SOCIAL PROOF — SVG badges only, high-contrast 4.5:1, descriptive alt text -->
@@ -21,6 +24,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/ch-muhammad-tayyab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:m.tayyab1263@gmail.com?subject=Upwork%20Project%20Inquiry"><img src="https://img.shields.io/badge/Upwork-Available_for_Hire-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Available for hire on Upwork, contact via email"/></a>
   <a href="mailto:m.tayyab1263@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact via email"/></a>
   <a href="https://my-app-tayyab-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" alt="View live portfolio"/></a>
   <a href="https://github.com/Moh-Tayyab"><img src="https://img.shields.io/badge/GitHub-Follow-238636?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
@@ -44,6 +48,8 @@
 I help businesses **save 10+ hours/week** with AI bots & automation that survive outside notebooks — in **warehouses, banks, retail stores, and production browsers.**
 
 **`Python` `FastAPI` `Next.js` `OpenAI Agents` `WhatsApp / Telegram Bots` `Voice AI + MCP` `Docker`**
+
+**Ask me about:** WhatsApp / Telegram Bots · Voice AI Agents · Computer Vision (YOLO) · Business Automation
 
 > If it doesn't run reliably on real cameras, real data, and real users — it doesn't ship.
 
